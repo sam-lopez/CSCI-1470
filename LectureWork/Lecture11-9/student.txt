@@ -1,0 +1,10 @@
+89 Paul Henry
+4.0
+45 Mary K Jones
+3.4
+67 Mary M Jones
+2.5
+35 Lisa Rose
+3.6
+23 Mary A Jones
+3.8
